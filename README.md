@@ -1,36 +1,49 @@
-<img src="https://raw.githubusercontent.com/mig-reis/mig-reis/main/assets/banner.png" alt="Banner" />
+<h2 align="left">👋 Olá! Eu sou o Miguel Reis</h2>
 
-
-
-## Desenvolvedor em formação | Python 🐍
-
-Sou estudante e estou iniciando meus estudos em programação, com foco em
-Python, Banco de Dados e Lógica de Programação.
-
----
-
-## 📚 O que estou estudando no momento
-- Lógica de Programação
-- Python (nível iniciante)
-- Estruturas de repetição (for, while)
-- Condicionais (if / else)
-- Listas e estruturas básicas
-- Git & GitHub
-- SQL (básico)
+<p align="left">
+🎓 Estudante focado em <strong>Python</strong> e <strong>Data Science</strong><br>
+📊 Interesse maior em <strong>Dados</strong>, mas com base sólida em <strong>Desenvolvimento Python</strong><br>
+📍 Brasil<br>
+🚀 Em busca da minha <strong>primeira oportunidade de estágio em tecnologia</strong>
+</p>
 
 ---
 
-## 🎯 Objetivo
-Criar uma base sólida em programação para evoluir futuramente nas áreas de:
-- Desenvolvimento de Software
-- Análise de Dados
-- Ciência da Computação / ADS / Engenharia de Software
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mig-reis&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mig-reis&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
-## 🚀 Projetos em destaque
-- Python – Imersão de Dados
+### 💡 Sobre mim
 
+- 📊 Estudando **Python aplicado à Análise e Ciência de Dados**
+- 🧠 Foco em aprendizado contínuo e prática diária
+- 🧪 Experiência com análise, limpeza e visualização de dados
+- 💼 Buscando **estágio em Dados ou Desenvolvimento Python**
+- 📚 Cursos e formações pela **Alura**
 
+---
 
+### 🛠️ Tecnologias & Ferramentas
 
+- 🐍 Python  
+- 📊 Pandas | NumPy  
+- 📈 Matplotlib | Seaborn  
+- 📓 Jupyter Notebook  
+- 🌐 Git & GitHub  
+
+---
+
+### 📌 Projetos em destaque
+
+🚧 Em desenvolvimento — novos projetos de análise de dados em breve.
+
+---
+
+### 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mig-reis/
