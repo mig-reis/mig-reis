@@ -3,7 +3,7 @@
 <p align="left">
 🎓 Estudante focado em <strong>Python</strong> e <strong>Data Science</strong><br>
 📊 Interesse maior em <strong>Dados</strong>, mas com base sólida em <strong>Desenvolvimento Python</strong><br>
-📍 Brasil<br>
+📍 Indaiatuba - São Paulo (Brazil) <br>
 🚀 Em busca da minha <strong>primeira oportunidade de estágio em tecnologia</strong>
 </p>
 
@@ -49,6 +49,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
 
 
 
