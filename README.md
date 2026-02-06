@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá! Eu sou o Miguel Reis</h2>
+<h2 align="left"> Prazer, Miguel! </h2>
 
 <p align="left">
 🎓 Estudante focado em <strong>Python</strong> e <strong>Data Science</strong><br>
@@ -50,6 +50,7 @@
 </a>
 
 </div>
+
 
 
 
