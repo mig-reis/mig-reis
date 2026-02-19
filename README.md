@@ -1,8 +1,8 @@
 <h2 align="left"> Prazer, Miguel! </h2>
 
 <p align="left">
-🎓 Estudante focado em <strong>Python</strong> e <strong>Data Science</strong><br>
-📊 Interesse maior em <strong>Dados</strong>, mas com base sólida em <strong>Desenvolvimento Python</strong><br>
+🎓 Estudante<br>
+📊 Interesse maior em <strong>Desenvolvimento Backend</strong>, mas com base sólida em <strong>Analise de dados (Python, PowerBI)</strong><br>
 📍 Indaiatuba - São Paulo (Brazil) <br>
 🚀 Em busca da minha <strong>primeira oportunidade de estágio em tecnologia</strong>
 </p>
@@ -50,6 +50,7 @@
 </a>
 
 </div>
+
 
 
 
